@@ -1,4 +1,4 @@
-# Reddit Data Pipeline using Airflow and AWS S3
+# Reddit Data Pipeline using Airflow, AWS EC2 and S3
 
 The aim of this project is to extract data from Reddit using the Reddit API and save it as a CSV file in an AWS S3 bucket. Airflow is utilized as the orchestration tool to manage the workflow. (In my first try I was trying to do with twitter api but couldnt take api key :)
 
