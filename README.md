@@ -42,7 +42,8 @@ git clone https://github.com/Oguzozcn/Reddit-Data-Pipeline-using-Airflow-and-AWS
 2. Install the required packages
 
 ```bash
-pip install -r requirements.txt
+pip install praw
+pip install s3fs
 
 ```
 
