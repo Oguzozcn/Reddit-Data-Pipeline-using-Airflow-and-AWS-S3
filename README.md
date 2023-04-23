@@ -35,7 +35,7 @@ t3.micro instance, 8 GiB storage
 1. Clone the repository
 
 ```bash
-git clone https://github.com/kishlayjeet/Twitter-Data-Pipeline-using-Airflow-and-AWS-S3.git
+git clone https://github.com/Oguzozcn/Reddit-Data-Pipeline-using-Airflow-and-AWS-S3.git
 
 ```
 
