@@ -3,7 +3,7 @@
 The aim of this project is to extract data from Reddit using the Reddit API and save it as a CSV file in an AWS S3 bucket. Airflow is utilized as the orchestration tool to manage the workflow.
 
 #### Objective: 
-```Using Reddit API to retrieve information about the top 20 "hot" submissions in the "politics" subreddit and creating a list of dictionaries containing the relevant data.```
+```Using Reddit API to retrieve information about the top 20 "hot" submissions in the "politics" subreddit.```
 
 (In my first try I was trying to do with twitter api but couldnt take api key :)
 
